@@ -1,0 +1,10 @@
+[user]
+	name = MicaCuello
+	email = mica23.28214@gmail.com
+
+[push]
+	default = current
+
+[core]
+	editor = \"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = true
